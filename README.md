@@ -1,8 +1,8 @@
-# Optimisation-Web-et-D-veloppement-Front-End
-**1. Que signifie "performance" ? Est-ce important ? Comment peut-on la mesurer ?
-2. Si les performances sont bonnes pour certains visiteurs, mais mauvaises pour d'autres, comment résoudre ce problème ?
-3. Est-ce que l'utilisation du lazy loading pour toutes les images d'un site fait une différence ?
-4. Connais-tu le Prefetching ? Quelle est la différence avec le Preloading ?
+# Optimisation-Web-et-D-veloppement-Front-End <br>
+**1. Que signifie "performance" ? Est-ce important ? Comment peut-on la mesurer ?<br>
+2. Si les performances sont bonnes pour certains visiteurs, mais mauvaises pour d'autres, comment résoudre ce problème ?<br>
+3. Est-ce que l'utilisation du lazy loading pour toutes les images d'un site fait une différence ?<br>
+4. Connais-tu le Prefetching ? Quelle est la différence avec le Preloading ?<br>
 5. Supposons que ce ne soit pas nécessaire de charger les fichiers JS immédiatement avec le contenu. Comment les retarder ?
 6. C'est quoi un CDN ?
 7. Quelle est la différence entre les Cookies, le LocalStorage, et le SessionStorage ? Qu'est-ce que c'est au juste ?
